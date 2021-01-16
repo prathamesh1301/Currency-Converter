@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Currency Converter 1</string>
+    <string-array name="currencies">
+        <item>Rupees</item>
+        <item>US Dollars</item>
+        <item>Yen</item>
+        <item>Euro</item>
+        <item>Pound</item>
+        <item>Dirham</item>
+        <item>Russian Rouble</item>
+    </string-array>
+</resources>
